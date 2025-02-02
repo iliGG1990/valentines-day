@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -35,7 +35,6 @@
     <p>Click the heart for a surprise!</p>
     <div class="heart" onclick="showMessage()">💖</div>
     <p id="message"></p>
-    <button onclick="window.location.href='https://www.your-special-link.com'">Click for a Surprise</button>
 
     <script>
         function showMessage() {
